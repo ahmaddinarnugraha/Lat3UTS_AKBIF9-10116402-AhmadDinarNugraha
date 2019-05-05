@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LAT3UTS_AKBIF9_10116402_AhmadDinarNugraha</string>
+    <string name="ahmad_dinar_nugraha">Ahmad Dinar Nugraha</string>
+    <string name="foto">foto</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="deskripsi_aplikasi">Deskripsi Aplikasi</string>
+    <string name="deskripsi_aplikasidua">Di dalam aplikasi ini mencakup identitas pembuat aplikasi seperti Profile,Interest, Friends List, dan masih banyak lagi</string>
+    <string name="fiturdua_aplikasi"><![CDATA[Didalam Aplikasi ini terdapat fitur Home, Daily Activity, Galery, Musik & Video Favorite dan masih banyak lagi]]></string>
+    <string name="fitur_aplikasi">Fitur Aplikasi</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="music_and_video_favorite">Music and Video Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nugienugraha97_gmail_com">nugienugraha97@gmail.com</string>
+    <string name="perkenalan_diri">Hallo, Perkenalkan nama saya Ahmad Dinar Nugraha biasa di panggil Dinar, dan saya kuliah di Unikom Fakultas Teknik dan Ilmu Komputer Jurusan Teknik Informatika.</string>
+    <string name="bulutangkis">Hobi saya adalah bermain Bulu Tangkis, Futsal dan Berenang. pada saat Tournamen Bulu Tangkis tingkat RW di kecamatan Situsaeur allhamdulillah peringkat ke 2, pada saat itu saya masih berumur 13 Tahun.</string>
+    <string name="cita_cita">Cita - cita saya suatu saat nanti, Insyaallah akan membuka wiraswasta di bidang Hardware komputer sebagai kerja sampingan. Dan saya akan bekerja di Telkom, karena saya menyukai hardware dan jaringan komputer.</string>
+    <string name="kegiatan">Kegiatan</string>
+    <string name="find_me">Find Me : </string>
+    <string name="about_version_apk_1_0">About version APK 1.0</string>
+    <string name="email">Email : nugienugraha97@gmail.com</string>
+    <string name="ig">Instagram : @ahmaddinarnugraha</string>
+    <string name="video_1">Video 1</string>
+    <string name="video_2">Video 2</string>
+    <string name="video_3">Video 3</string>
+</resources>
